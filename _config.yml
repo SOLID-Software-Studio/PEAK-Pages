@@ -1,0 +1,11 @@
+title: PEAK Trainings Tracker Legal
+description: Legal documents for PEAK Trainings Tracker by SOLID Software Studio OG
+theme: minima
+
+url: "https://peak.solid-software.studio"
+lang: en
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
